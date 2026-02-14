@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c298549d055f79e2",
+    "id": "5b3dd7111da73d2c",
     "type": "split",
     "children": [
       {
-        "id": "1f018c24423a4678",
+        "id": "222e558572808b28",
         "type": "tabs",
         "children": [
           {
-            "id": "914b9440fa6411d6",
+            "id": "3659cd082e5d5f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
+                "file": "Ing.Software 1-2026/Base de Datos II/Hashes Base de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMANDOS BASICOS"
+              "title": "Hashes Base de Datos"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50f6421d4c3dd175",
+    "id": "38c7e87dfaf9311a",
     "type": "split",
     "children": [
       {
-        "id": "7794ad89ca68b963",
+        "id": "1e046cc68012b3aa",
         "type": "tabs",
         "children": [
           {
-            "id": "f7763f9e1806913a",
+            "id": "442da822c08c0f93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "d312bcc6b468dfec",
+            "id": "5dea9c9ea55ea7e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,65 +61,53 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "46aece97815b4ae4",
+            "id": "c1ab9661603cb15f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
-            "id": "d4b9254255ca59f3",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "4cc39485747b912d",
+    "id": "eeb72fe1aa010344",
     "type": "split",
     "children": [
       {
-        "id": "0bcf33e7d22e4a82",
+        "id": "e182ad17f46eb07e",
         "type": "tabs",
         "children": [
           {
-            "id": "a36513e6356a437e",
+            "id": "ade08639b013f008",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals of Encryption & Quantum-Safe Techniques.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fundamentals of Encryption & Quantum-Safe Techniques"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dbfea90a3b8e4634",
+            "id": "da5beda8fdf6d660",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -132,7 +120,7 @@
             }
           },
           {
-            "id": "5cb93135a085a83f",
+            "id": "2be57571e1350af2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +135,7 @@
             }
           },
           {
-            "id": "bb936d9174c4301b",
+            "id": "8590ab3e7de16bc6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,7 +149,7 @@
             }
           },
           {
-            "id": "066e2a60f20cda31",
+            "id": "0e5ed536690756ba",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -173,61 +161,96 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "697ef74670f5d183",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8d2e40faa869bb40",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "99077c595f37f72b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "914b9440fa6411d6",
+  "active": "442da822c08c0f93",
   "lastOpenFiles": [
-    "Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
-    "Tags",
-    "Ing.Software 1-2026/Programacion_II/Programacion Estructurada.md",
-    "Cybersecurity/Cybersecurity_Fundamentals/Contexto y Motivacion.md",
-    "2026-02-11.md",
-    "Cybersecurity/Cybersecurity_Fundamentals",
-    "Ing.Software 1-2026/Programacion_II/Modelo OSI.md",
-    "Who I AM?/El hombre en busca de sentido/El hombre en busca de sentido.md",
-    "Ing.Software 1-2026/Cristologia/Cristologia_Theme.md",
-    "Ing.Software 1-2026/Cristologia",
-    "Who I AM?/El hombre en busca de sentido/Frankl-Viktor-El-hombre-en-busca-de-sentido.pdf",
-    "Who I AM?/Esencialismo -Greg McKeown/(3) Esencialismo -Greg McKeown.pdf",
+    "Ing.Software 1-2026/Base de Datos II/Pasted image 20260214101033.png",
+    "Obsidian_Note/Ing.Software 1-2026/Base de Datos II/Pasted image 20260214101033.png",
     "Who I AM?/Maestria/maestrc3ada-robert-greene-poderoso-conocimiento.pdf",
-    "Who I AM?/La Guerra del Arte/La-Guerra-del-Arte.pdf",
-    "Who I AM?/La Actitud del Exito/La Actitud del Exito PDF.pdf",
-    "Sin título.canvas",
-    "Sin título.base",
-    "Sin título 1.base",
-    "Cybersecurity/Links_Repository/Links Github.md",
-    "Who I AM?/Esencialismo -Greg McKeown/Esencialismo-Analisis.md",
-    "Project-HYPERLINK/Arquitectura del proyecto.md",
-    "Ing.Software 1-2026/Programacion_II/Programacion Csharp.md",
-    "Sin título.md",
-    "Project-HYPERLINK/Feature Set.md",
-    "Pasted image 20260209235736.png",
-    "Project-HYPERLINK/Movement OSI.md",
     "Who I AM?/Maestria/Analisis-Maestria.md",
+    "Who I AM?/La Guerra del Arte/La-Guerra-del-Arte.pdf",
     "Who I AM?/La Guerra del Arte/Analsis-La guerra del arte.md",
+    "Who I AM?/La Actitud del Exito/La Actitud del Exito PDF.pdf",
     "Who I AM?/La Actitud del Exito/Analisis-La actitud del exito.md",
+    "Who I AM?/Esencialismo -Greg McKeown/Esencialismo-Analisis.md",
+    "Who I AM?/Esencialismo -Greg McKeown/(3) Esencialismo -Greg McKeown.pdf",
+    "Who I AM?/El hombre en busca de sentido/Frankl-Viktor-El-hombre-en-busca-de-sentido.pdf",
+    "Who I AM?/El hombre en busca de sentido/El hombre en busca de sentido.md",
+    "Who I AM?/Maestria",
+    "Who I AM?/La Guerra del Arte",
+    "Who I AM?/La Actitud del Exito",
+    "Who I AM?/Esencialismo -Greg McKeown",
+    "Who I AM?/El hombre en busca de sentido",
+    "Project-HYPERLINK/Movement OSI.md",
+    "Project-HYPERLINK/Feature Set.md",
+    "Project-HYPERLINK/Arquitectura del proyecto.md",
+    "Ing.Software 1-2026/Programacion_II/Programacion Estructurada.md",
+    "Ing.Software 1-2026/Programacion_II/Programacion Csharp.md",
+    "Ing.Software 1-2026/Programacion_II/Modelo OSI.md",
+    "Ing.Software 1-2026/Cristologia/Cristologia_Theme.md",
+    "Ing.Software 1-2026/Base de Datos II/Hashes Base de Datos.md",
+    "Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
+    "Cybersecurity/Links_Repository/Links Github.md",
     "Cybersecurity/Fundamentals of Encryption & Quantum-Safe Techniques/Securing your IT infrastructure against today’s and tomorrow’s computers and criminals.md",
-    "Fundamentals of Encryption & Quantum-Safe Techniques.md",
-    "Untitled.canvas",
-    "2025-11-30.md",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Cybersecurity/Cybersecurity_Fundamentals/Contexto y Motivacion.md",
+    "Obsidian_Note/Ing.Software 1-2026/Base de Datos II/Hashes Base de Datos.md",
+    "Obsidian_Note/Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
+    "Obsidian_Note/2026-02-11.md",
+    "Obsidian_Note/Who I AM?/Maestria/Analisis-Maestria.md",
+    "Obsidian_Note/Who I AM?/La Guerra del Arte/Analsis-La guerra del arte.md",
+    "Obsidian_Note/Who I AM?/La Actitud del Exito/Analisis-La actitud del exito.md",
+    "Obsidian_Note/Who I AM?/Esencialismo -Greg McKeown/Esencialismo-Analisis.md",
+    "Obsidian_Note/Who I AM?/El hombre en busca de sentido/El hombre en busca de sentido.md"
   ]
 }
