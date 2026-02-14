@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "222e558572808b28",
+        "id": "f4064432ddcc178a",
         "type": "tabs",
         "children": [
           {
-            "id": "3659cd082e5d5f2c",
+            "id": "0f82dfc6f5525284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
+                "file": "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hashes-base-de-datos"
+              "title": "modelo-osi"
             }
           }
         ]
@@ -72,6 +72,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b20eec76b9174497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3659cd082e5d5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -213,19 +229,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "442da822c08c0f93",
+  "active": "0f82dfc6f5525284",
   "lastOpenFiles": [
+    "01_Proyectos/Universidad/Programacion-II/Programacion-Estructurada.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
+    "02_Areas/Cybersecurity/Fundamentals/contexto-y-motivacion.md",
+    "02_Areas/Cybersecurity/Encryption/securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals.md",
+    "03_Recursos/Libros/El hombre en busca de sentido/el-hombre-en-busca-de-sentido.md",
+    "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
+    "03_Recursos/Libros/Esencialismo -Greg McKeown/esencialismo-analisis.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
+    "Home.md",
     "03_Recursos/Adjuntos/Pasted image 20260214112138.png",
     "01_Proyectos/Hyperlink/feature-set.md",
-    "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
     "Ing.Software 1-2026/Base de Datos II/Hashes Base de Datos.md",
     "Ing.Software 1-2026/Base de Datos II",
-    "Home.md",
     "03_Recursos/Libros/Maestria/analisis-maestria.md",
     "03_Recursos/Libros/La Guerra del Arte/analsis-la-guerra-del-arte.md",
     "03_Recursos/Libros/La Actitud del Exito/analisis-la-actitud-del-exito.md",
-    "03_Recursos/Libros/Esencialismo -Greg McKeown/esencialismo-analisis.md",
-    "03_Recursos/Libros/El hombre en busca de sentido/el-hombre-en-busca-de-sentido.md",
     "03_Recursos/Libros/Maestria",
     "03_Recursos/Libros/La Guerra del Arte",
     "03_Recursos/Libros/La Actitud del Exito",
@@ -237,14 +258,9 @@
     "03_Recursos/Adjuntos/maestrc3ada-robert-greene-poderoso-conocimiento.pdf",
     "03_Recursos/Adjuntos/Pasted image 20260214101033.png",
     "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf",
-    "02_Areas/Cybersecurity/Fundamentals/contexto-y-motivacion.md",
-    "02_Areas/Cybersecurity/Encryption/securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals.md",
-    "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "01_Proyectos/Universidad/Cristologia/cristologia-theme.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
     "01_Proyectos/Hyperlink/movement-osi.md",
     "01_Proyectos/Hyperlink/arquitectura-del-proyecto.md",
     "Ing.Software 1-2026/Base de Datos II/Pasted image 20260214103126.png",
