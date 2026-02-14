@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "c298549d055f79e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f018c24423a4678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914b9440fa6411d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMANDOS BASICOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50f6421d4c3dd175",
+    "type": "split",
+    "children": [
+      {
+        "id": "7794ad89ca68b963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7763f9e1806913a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d312bcc6b468dfec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "46aece97815b4ae4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "d4b9254255ca59f3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc39485747b912d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcf33e7d22e4a82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a36513e6356a437e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals of Encryption & Quantum-Safe Techniques.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fundamentals of Encryption & Quantum-Safe Techniques"
+            }
+          },
+          {
+            "id": "dbfea90a3b8e4634",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5cb93135a085a83f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb936d9174c4301b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "066e2a60f20cda31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "914b9440fa6411d6",
+  "lastOpenFiles": [
+    "Ing.Software 1-2026/Base de Datos II/COMANDOS BASICOS.md",
+    "Tags",
+    "Ing.Software 1-2026/Programacion_II/Programacion Estructurada.md",
+    "Cybersecurity/Cybersecurity_Fundamentals/Contexto y Motivacion.md",
+    "2026-02-11.md",
+    "Cybersecurity/Cybersecurity_Fundamentals",
+    "Ing.Software 1-2026/Programacion_II/Modelo OSI.md",
+    "Who I AM?/El hombre en busca de sentido/El hombre en busca de sentido.md",
+    "Ing.Software 1-2026/Cristologia/Cristologia_Theme.md",
+    "Ing.Software 1-2026/Cristologia",
+    "Who I AM?/El hombre en busca de sentido/Frankl-Viktor-El-hombre-en-busca-de-sentido.pdf",
+    "Who I AM?/Esencialismo -Greg McKeown/(3) Esencialismo -Greg McKeown.pdf",
+    "Who I AM?/Maestria/maestrc3ada-robert-greene-poderoso-conocimiento.pdf",
+    "Who I AM?/La Guerra del Arte/La-Guerra-del-Arte.pdf",
+    "Who I AM?/La Actitud del Exito/La Actitud del Exito PDF.pdf",
+    "Sin título.canvas",
+    "Sin título.base",
+    "Sin título 1.base",
+    "Cybersecurity/Links_Repository/Links Github.md",
+    "Who I AM?/Esencialismo -Greg McKeown/Esencialismo-Analisis.md",
+    "Project-HYPERLINK/Arquitectura del proyecto.md",
+    "Ing.Software 1-2026/Programacion_II/Programacion Csharp.md",
+    "Sin título.md",
+    "Project-HYPERLINK/Feature Set.md",
+    "Pasted image 20260209235736.png",
+    "Project-HYPERLINK/Movement OSI.md",
+    "Who I AM?/Maestria/Analisis-Maestria.md",
+    "Who I AM?/La Guerra del Arte/Analsis-La guerra del arte.md",
+    "Who I AM?/La Actitud del Exito/Analisis-La actitud del exito.md",
+    "Cybersecurity/Fundamentals of Encryption & Quantum-Safe Techniques/Securing your IT infrastructure against today’s and tomorrow’s computers and criminals.md",
+    "Fundamentals of Encryption & Quantum-Safe Techniques.md",
+    "Untitled.canvas",
+    "2025-11-30.md",
+    "Untitled 1.canvas",
+    "Welcome.md"
+  ]
+}
