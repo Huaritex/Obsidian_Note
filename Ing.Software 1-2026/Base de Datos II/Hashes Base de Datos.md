@@ -37,3 +37,51 @@ TotalCompras DESC;
 
 set statistics XML OFF
 ```
+
+
+
+![[Pasted image 20260214103126.png]]
+
+
+```
+GO
+
+set STATISTICS XML ON
+
+SELECT
+
+p.Name,
+
+SUM(sod.OrderQty) AS TotalCantidad,
+
+SUM(sod.LineTotal) AS TotalVenta
+
+FROM Sales.SalesOrderDetail sod
+
+JOIN Production.Product p
+
+ON CAST(sod.ProductID AS VARCHAR(50)) = CAST(p.ProductID AS VARCHAR(50))
+
+JOIN Sales.SalesOrderHeader soh
+
+ON sod.SalesOrderID = soh.SalesOrderID
+
+WHERE
+
+YEAR(soh.OrderDate) = 2013
+
+AND p.Name LIKE '%Bike%'
+
+GROUP BY
+
+p.Name
+
+ORDER BY
+
+TotalVenta DESC;
+
+SET STATISTICS XML OFF
+
+GO
+```
+
