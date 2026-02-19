@@ -1,9 +1,90 @@
 ---
-tags: ['note']
+tags: ['note', 'programming', 'csharp', 'oop']
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
 
-como realmente se puede ser un crack dependiendo de como uno mire el futbol, el ginecologo el gol adicto a oler goles pero no meterlos , una genialidad de como una persona es capaz de escribir rapido sin necesidad de ver el teclado , dependiendo de que tan bien este su mecanografia , y como de verdad de desenvuelva dentro del ambito de la carrera de ingenieria de software, como la gente es capaz de sobre prensar a pesar que en un mundo lleno de heroes uno siempre sea mas que el villano de una historia mal contada, quisiera saber como puedo configurar el tema de cursor AI, junto con la extension de animations de vscode, y como se complementa con claude code de terminal, que me parece una bestialidad de como una persona actua de forma consecuente
+# Programación en C#
 
-Relacionado: [[programacion-estructurada]]
+> [!info] Lenguaje de programación multiparadigma desarrollado por Microsoft, orientado a objetos y fuertemente tipado.
+
+## Características Principales
+-   **Orientado a Objetos (POO)**: Encapsulamiento, Herencia, Polimorfismo.
+-   **Seguridad de Tipos**: Compilación estática que evita errores comunes.
+-   **Garbage Collection**: Gestión automática de memoria.
+
+---
+
+## Conceptos de POO
+
+### 1. Encapsulamiento (Encapsulation)
+> [!summary] Ocultar el estado interno y requerir que todas las interacciones se realicen a través de una interfaz.
+
+```csharp
+public class CuentaBancaria {
+    private decimal saldo; // Privado
+
+    public void Depositar(decimal monto) { // Público
+        if (monto > 0) saldo += monto;
+    }
+}
+```
+
+### 2. Herencia (Inheritance)
+> [!summary] Una clase (hija) puede heredar atributos y métodos de otra (padre).
+
+```csharp
+public class Animal {
+    public void Comer() { Console.WriteLine("Comiendo..."); }
+}
+
+public class Perro : Animal {
+    public void Ladrar() { Console.WriteLine("Guau!"); }
+}
+```
+
+### 3. Polimorfismo (Polymorphism)
+> [!summary] Capacidad de tratar objetos de diferentes clases de manera uniforme.
+
+```csharp
+public virtual void HacerSonido() { ... }
+public override void HacerSonido() { ... }
+```
+
+### 4. Abstracción (Abstraction)
+> [!summary] Ocultar la complejidad y exponer solo lo esencial.
+
+```csharp
+public abstract class Forma {
+    public abstract double CalcularArea();
+}
+```
+
+---
+
+## Sintaxis Básica
+
+### Variables y Tipos
+```csharp
+int edad = 25;
+string nombre = "Juan";
+bool esEstudiante = true;
+var fecha = DateTime.Now; // Inferencia de tipos
+```
+
+### Estructuras de Control
+```csharp
+// If-Else
+if (edad >= 18) {
+    Console.WriteLine("Mayor de edad");
+}
+
+// Bucles
+for (int i = 0; i < 5; i++) {
+    Console.WriteLine(i);
+}
+
+foreach (var item in lista) {
+    Console.WriteLine(item);
+}
+```
