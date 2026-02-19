@@ -11,6 +11,7 @@ relaciones: []
 ## Los 3 Pilares
 
 ### 1. Secuencia
+
 > [!summary] Las instrucciones se ejecutan una tras otra en el orden en que están escritas.
 
 ```mermaid
@@ -21,6 +22,7 @@ graph TD;
 ```
 
 ### 2. Selección (Decisión)
+
 > [!summary] Ejecución condicional de bloques de código.
 
 -   **Simple**: `if`
@@ -28,6 +30,7 @@ graph TD;
 -   **Múltiple**: `switch`
 
 ### 3. Iteración (Bucles)
+
 > [!summary] Ejecución repetida de un bloque de código mientras se cumpla una condición.
 
 -   **While**: Evalúa la condición antes (puede no ejecutarse nunca).
