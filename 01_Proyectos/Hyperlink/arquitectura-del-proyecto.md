@@ -53,14 +53,14 @@ relaciones: []
 
 ## 4.-Stack Tecnologico Sugerido
 
-| **Capa**            | **Tecnología**            | **Razón**                                       |
-| ------------------- | ------------------------- | ----------------------------------------------- |
-| **Frontend**        | React + Tailwind CSS      | Flexibilidad y ecosistema de componentes.       |
-| **Desktop Shell**   | Tauri (Rust)              | Seguridad y mínimo consumo de RAM.              |
-| **Mobile**          | Flutter                   | Rendimiento nativo en gráficas y animaciones.   |
-| **[[comandos-basicos]]**   | SQLite + Yjs              | Estándar de la industria para apps local-first. |
-| **IA/LLM**          | LangChain + OpenAI/Ollama | Orquestación de agentes y RAG.                  |
-| **Infraestructura** | AWS (Lambda, S3)          | Escalabilidad para el motor de sincronización.  |
+| **Capa**             | **Tecnología**            | **Razón**                                       |
+| -------------------- | ------------------------- | ----------------------------------------------- |
+| **Frontend**         | React + Tailwind CSS      | Flexibilidad y ecosistema de componentes.       |
+| **Desktop Shell**    | Tauri (Rust)              | Seguridad y mínimo consumo de RAM.              |
+| **Mobile**           | Flutter                   | Rendimiento nativo en gráficas y animaciones.   |
+| **comandos-basicos** | SQLite + Yjs              | Estándar de la industria para apps local-first. |
+| **IA/LLM**           | LangChain + OpenAI/Ollama | Orquestación de agentes y RAG.                  |
+| **Infraestructura**  | AWS (Lambda, S3)          | Escalabilidad para el motor de sincronización.  |
 ## 5. El Factor Diferenciador: Automatización y Aprendizaje
 
 Para superar a las herramientas actuales, la arquitectura incluiría un **Motor de Agentes Autónomos**:

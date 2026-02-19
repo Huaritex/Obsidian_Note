@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing.Software 1-2026/Estructuras de Datos/Estructuras de datos Lineal.md",
+                "file": "01_Proyectos/Hyperlink/arquitectura-del-proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estructuras de datos Lineal"
+              "title": "arquitectura-del-proyecto"
+            }
+          },
+          {
+            "id": "aed7a2b4b920a522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Proyectos/Universidad/Estructuras-De-Datos/arboles-y-grafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "arboles-y-grafos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -229,20 +244,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "557b551b5412e912",
+  "active": "aed7a2b4b920a522",
   "lastOpenFiles": [
+    "UDP.md",
+    "Ing.Software 1-2026/Estructuras de Datos/Estructuras de datos Lineal.md",
+    "01_Proyectos/Hyperlink/arquitectura-del-proyecto.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
+    "Home.md",
+    "01_Proyectos/Universidad/Estructuras-De-Datos/arboles-y-grafos.md",
+    "01_Proyectos/Universidad/Estructuras-De-Datos/introduccion-estructuras.md",
     "Ing.Software 1-2026/Estructuras de Datos/Programacion-JAVA.md",
     "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
     "01_Proyectos/Universidad/Metodologias-Agiles/manifiesto-agil.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
-    "01_Proyectos/Universidad/Estructuras-De-Datos/introduccion-estructuras.md",
-    "01_Proyectos/Universidad/Estructuras-De-Datos/arboles-y-grafos.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
     "Ing.Software 1-2026/Metodologias Agiles/Metodologia Scrum.md",
-    "Ing.Software 1-2026/Estructuras de Datos/Estructuras de datos Lineal.md",
     "Ing.Software 1-2026/Metodologias Agiles",
     "Ing.Software 1-2026/Estructuras de Datos",
     "Ing.Software 1-2026",
@@ -253,7 +271,6 @@
     "03_Recursos/Libros/El hombre en busca de sentido/el-hombre-en-busca-de-sentido.md",
     "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
     "03_Recursos/Libros/Esencialismo -Greg McKeown/esencialismo-analisis.md",
-    "Home.md",
     "03_Recursos/Libros/Maestria/analisis-maestria.md",
     "03_Recursos/Libros/La Guerra del Arte/analsis-la-guerra-del-arte.md",
     "03_Recursos/Libros/La Actitud del Exito/analisis-la-actitud-del-exito.md",
@@ -268,7 +285,6 @@
     "02_Areas/Cybersecurity/Fundamentals/contexto-y-motivacion.md",
     "02_Areas/Cybersecurity/Encryption/securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals.md",
     "01_Proyectos/Universidad/Cristologia/cristologia-theme.md",
-    "01_Proyectos/Hyperlink/movement-osi.md",
     "Ing.Software 1-2026/Base de Datos II/Pasted image 20260214103126.png",
     "Ing.Software 1-2026/Base de Datos II/Pasted image 20260214101033.png",
     "Obsidian_Note/Ing.Software 1-2026/Base de Datos II/Pasted image 20260214101033.png"
