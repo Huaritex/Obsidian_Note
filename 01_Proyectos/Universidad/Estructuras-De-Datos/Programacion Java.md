@@ -114,9 +114,6 @@ public class ListaSimple {
 ---
 
 
-
-
-
 funciones -> Devuelve un valor
 procedimiento -> No devuelve nada
 

@@ -35,8 +35,7 @@
               "title": "Programacion Java"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,10 +243,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "caa5df1b56b1a7b3",
+  "active": "557b551b5412e912",
   "lastOpenFiles": [
-    "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
     "01_Proyectos/Universidad/Estructuras-De-Datos/Programacion Java.md",
+    "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
+    "Pasted image 20260220161212.png",
     "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
@@ -277,7 +277,6 @@
     "03_Recursos/Libros/Esencialismo -Greg McKeown/esencialismo-analisis.md",
     "03_Recursos/Libros/Maestria/analisis-maestria.md",
     "03_Recursos/Libros/La Guerra del Arte/analsis-la-guerra-del-arte.md",
-    "03_Recursos/Libros/La Actitud del Exito/analisis-la-actitud-del-exito.md",
     "03_Recursos/Libros/Maestria",
     "03_Recursos/Libros/La Guerra del Arte",
     "03_Recursos/Libros/La Actitud del Exito",

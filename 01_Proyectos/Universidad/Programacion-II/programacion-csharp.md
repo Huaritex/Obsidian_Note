@@ -344,3 +344,115 @@ public class BubbleSortAlgorithm
 
 ---
 
+## Explicacion de La Notacion Big O (O)
+
+> Es la forma Estandar de medir la complejidad. Imagina que tienes una lista de n elementos:
+
+- **O(1) - Tiempo Constante:** El algoritmo tarda lo mismo sin importar si tienes 10 datos o 10 millones.
+
+ >[!example] Ejemplo: Acceder al primer elemento de un array.
+
+- **O(n) - Tiempo Lineal:** El tiempo crece proporcionalmente a los datos.
+
+>[!example] _Ejemplo:_ Buscar un nombre en una lista desordenada (tienes que leer uno por uno).
+
+- **O(n2) - Tiempo Cuadrático:** El tiempo se dispara. Si doblas los datos, el tiempo se cuadruplica.
+
+>[!example] _Ejemplo:_ Dos bucles `for` anidados (común en ordenamientos básicos como el de burbuja).
+
+- **O(logn) - Tiempo Logarítmico:** Es el "santo grial" de las búsquedas. A medida que los datos crecen, el tiempo aumenta muy poco.
+
+>[!example] _Ejemplo:_ Búsqueda binaria.
+
+
+
+## Overview
+
+>[!success] Esta imagen es un gráfico que ilustra el concepto de la Notación O Grande. Representa visualmente cuánto tiempo o espacio le tomaría a una función o algoritmo completar una tarea determinada. En otras palabras, nos ayuda a comprender mejor la complejidad de un algoritmo y su eficiencia a medida que aumenta el número de elementos que debe procesar.
+
+## O
+
+>[!success] The vertical axis of this chart is represented by the letter O, which represents the output of the algorithm. It measures the number of operations or the time complexity of an algorithm. A smaller value on this axis represents better efficiency and is more desirable.
+
+## N
+
+>[!success] El eje horizontal de este gráfico está representado por la letra N. Representa el número de elementos del conjunto de datos sobre los que el algoritmo realiza sus operaciones. Por ejemplo, podría tratarse de una matriz de 10 elementos que se buscan para un elemento específico.
+
+## O(1)
+
+>[!success] En la parte inferior del gráfico, vemos la notación O(1), que representa la complejidad de tiempo constante. El tiempo que tarda este algoritmo no aumenta con el número de elementos en el conjunto de datos. Un ejemplo de una función O(1) es acceder a un elemento de una matriz por su índice.
+
+## O(log N)
+
+>[!success] La siguiente notación, O(log N), se denomina complejidad temporal logarítmica. A medida que aumenta el número de elementos en la entrada, el número de operaciones crece logarítmicamente. El ejemplo más común de este tipo de función es la búsqueda binaria.
+
+## O(N)
+
+>[!success] Al ascender en el gráfico, O(N) se conoce como complejidad temporal lineal. Esto significa que el algoritmo crece linealmente con el número de elementos en el conjunto de datos. A medida que el número de elementos se duplica, también lo hace el tiempo que tarda en completarse la función. Buscar un elemento en una matriz sin ordenar es un ejemplo de una función de complejidad temporal lineal.
+
+## O N(log N)
+
+>[!success] La siguiente notación en nuestro gráfico es O(N log N), o tiempo lineal-ítmico. La complejidad temporal de dicha función es directamente proporcional al número de elementos multiplicado por el logaritmo del número de elementos. Los algoritmos de ordenamiento más eficientes, como el ordenamiento por fusión o el ordenamiento rápido, tienen una complejidad temporal promedio de O(N log N).
+
+## O(N^3)
+
+>[!success] Subiendo, vemos la notación O(N^3), que representa la complejidad temporal cúbica. A medida que aumenta el número de elementos, el tiempo que tarda el algoritmo en completar su tarea crece de forma cúbica. Un ejemplo de un algoritmo con esta complejidad temporal es cuando buscamos tres números en un conjunto que suman cero.
+
+## O(2^N)
+
+>[!success] La notación O(2^N) representa una complejidad temporal exponencial. Esto significa que, a medida que aumenta el número de elementos, la complejidad temporal se duplica con cada elemento añadido. Un ejemplo de este algoritmo es calcular el n-ésimo número de Fibonacci mediante un enfoque recursivo sin memorización.
+
+## O(N!)
+
+>[!success] La notación más alta en este gráfico es O(N!). Esto representa una complejidad temporal factorial. El algoritmo requiere N! operaciones para completarse, donde N es el tamaño del conjunto de datos. A menudo se considera uno de los peores escenarios en términos de rendimiento. Un ejemplo de un algoritmo con esta complejidad temporal es la solución del problema del viajante mediante fuerza bruta.
+
+
+
+![[Pasted image 20260220161212.png]]
+
+---
+
+```mermaid
+xychart-beta
+    title "Complejidad Temporal: Notación Big O"
+    x-axis [0, 2, 4, 6, 8, 10, 12, 14, 16]
+    y-axis "Operaciones" 0 --> 250
+    line [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    line [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    line [0, 10, 20, 30, 40, 50, 60, 70, 80]
+    line [0, 4, 16, 36, 64, 100, 144, 196, 256]
+
+```
+
+|**Línea**|**Complejidad**|**Color (Aprox)**|**Significado**|
+|---|---|---|---|
+|1|**$O(1)$**|Azul claro|Constante (Acceso directo)|
+|2|**$O(\log n)$**|Verde|Logarítmica (Búsqueda Binaria)|
+|3|**$O(n)$**|Amarillo|Lineal (Bucle simple)|
+|4|**$O(n^2)$**|Rojo|Cuadrática (Bucles anidados)|
+
+
+
+``` mermaid
+graph TD
+    A[Eficiencia de Algoritmos - Big O] --> B{Excelente}
+    A --> C{Aceptable}
+    A --> D{Horrible}
+
+    B --> B1["O(1) - Constante"]
+    B --> B2["O(log n) - Logarítmica"]
+
+    C --> C1["O(n) - Lineal"]
+    C --> C2["O(n log n) - Quicksort/MergeSort"]
+
+    D --> D1["O(n²) - Cuadrática"]
+    D --> D2["O(2ⁿ) - Exponencial"]
+    D --> D3["O(n!) - Factorial"]
+
+    style B fill:#d4edda,stroke:#28a745
+    style C fill:#fff3cd,stroke:#ffc107
+    style D fill:#f8d7da,stroke:#dc3545
+```
+
+
+
