@@ -1,9 +1,13 @@
 ---
-tags: ['note']
+tags:
+  - note
+  - computer-science
+  - algorithms
+  - data-structures
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
-
+ [[programacion-estructurada]]
 
 funciones -> Devuelve un valor
 procedimiento -> No devuelve nada
@@ -146,6 +150,4 @@ cout << "El numero tiene " << num(numero) << " digitos." << endl;
 
 return 0;
 }
-
-```
 
