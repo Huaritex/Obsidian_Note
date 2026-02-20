@@ -424,12 +424,12 @@ xychart-beta
 
 ```
 
-|**Línea**|**Complejidad**|**Color (Aprox)**|**Significado**|
-|---|---|---|---|
-|1|**$O(1)$**|Azul claro|Constante (Acceso directo)|
-|2|**$O(\log n)$**|Verde|Logarítmica (Búsqueda Binaria)|
-|3|**$O(n)$**|Amarillo|Lineal (Bucle simple)|
-|4|**$O(n^2)$**|Rojo|Cuadrática (Bucles anidados)|
+| **Línea** | **Complejidad** | **Color (Aprox)** | **Significado**                |
+| --------- | --------------- | ----------------- | ------------------------------ |
+| 1         | **$O(1)$**      | Azul claro        | Constante (Acceso directo)     |
+| 2         | **$O(\log n)$** | Verde             | Logarítmica (Búsqueda Binaria) |
+| 3         | **$O(n)$**      | Amarillo          | Lineal (Bucle simple)          |
+| 4         | **$O(n^2)$**    | Rojo              | Cuadrática (Bucles anidados)   |
 
 
 
