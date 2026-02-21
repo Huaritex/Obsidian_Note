@@ -9,6 +9,7 @@ relaciones: []
 > [!info] Structured Query Language (SQL) es el lenguaje estándar para gestionar bases de datos relacionales.
 
 ## DDL (Data Definition Language)
+
 > [!summary] Define la estructura de la base de datos (tablas, índices, etc.).
 
 -   **CREATE TABLE**: Crea una nueva tabla.
@@ -25,6 +26,7 @@ CREATE TABLE Usuarios (
 ```
 
 ## DML (Data Manipulation Language)
+
 > [!summary] Manipula los datos dentro de las tablas.
 
 -   **SELECT**: Recupera datos.
@@ -39,6 +41,7 @@ UPDATE Usuarios SET Email = 'maria@mail.com' WHERE ID = 2;
 ```
 
 ## Avanzado: JOINs
+
 > [!important] Combinar filas de dos o más tablas basándose en una columna relacionada.
 
 -   **INNER JOIN**: Devuelve filas cuando hay coincidencia en ambas tablas.
@@ -58,3 +61,5 @@ INNER JOIN Clientes ON Pedidos.ClienteID = Clientes.ID;
 1.  **1NF (Primera Forma Normal)**: Atomicidad (valores indivisibles).
 2.  **2NF**: 1NF + Dependencia funcional completa (clave primaria).
 3.  **3NF**: 2NF + No dependencias transitivas.
+
+---

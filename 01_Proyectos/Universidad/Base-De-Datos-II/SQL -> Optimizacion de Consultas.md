@@ -1,0 +1,85 @@
+---
+tags: ['note', 'database', 'sql']
+fecha_creacion: 2026-02-14
+relaciones: []
+---
+[[SQL -> Indices]]
+## Optimizacion de Consultas
+
+> Proceso de mejorar el rendimiento de las consultas SQL
+
+## Orden de Ejecucion de Consulta
+
+```SQL
+SELECT
+FROM
+JOIN 
+ON
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+LIMIT --TOP
+
+```
+
+---
+
+## Operadores Logicos
+
+
+
+
+---
+
+## Prioridad por Operador
+
+> La prioridad de operador 
+
+
+---
+
+## Tecnicas de Reescritura de Consultas
+
+### `Optimizacion de JOINS`
+
+> Los JOINS son una parte integral de muchas consultas SQL, pero pueden ser una fuente de ineficiencia si no se manejan adeucadamente:
+
+-> Utilizar JOINs explicitos en lugar de JOINs implicitos
+
+>[!info] Explicito
+
+```SQL
+SELECT p.name as Product, sc.name as Subcategoria
+FROM Production.Product p
+INNER JOIN Production.ProductSubcategory sc
+ON p.ProductSubcategoryID = sc.ProductSubcategoryID
+```
+
+>[!info] Implicito
+
+```SQL
+SELECT p.name as Product, sc.name as Subcategoria
+FROM Production.Product p
+,Production.ProductSubcategory sc
+WHERE p.ProductSubcateogryID = sc.ProductSubcategoryID
+```
+
+-> Seleccionar solo las Consultas necesarias en la clausula SELECT en un lugar de seleccionar todas las columnas
+
+-> Utilizar Indices en las columnas involucradas en los JOINs para mejorar el rendimiento
+
+## `Subconsultas Correlacionadas vs Subconsultas Independiente`
+
+> Las subconsultas independientes tienden a ser mas eficientes que las subconsultas correlacionadas
+
+```SQL
+SELECT firstname, lastname, rate AS salary
+FROM humanresources.employee E
+INNER JOIN person.person P ON E.businessentityID = P.businessentityID
+INNER JOIN humanresources.employeepayhistory PH ON E.businessentityID = PH.businessentityID
+WHERE rate > (
+	SELECT avg(rate)
+	FROM humanresources.employeepayhistory
+);
+```
