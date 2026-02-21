@@ -83,3 +83,15 @@ WHERE rate > (
 	FROM humanresources.employeepayhistory
 );
 ```
+
+### Correlacional
+
+```SQL
+select customerid
+from sales.Customer C
+where CustomerID in (
+    select CustomerID FROM
+    Sales.SalesOrderHeader H
+    WHERE h.CustomerID = C.CustomerID
+    AND TotalDue <= 1000)
+```
