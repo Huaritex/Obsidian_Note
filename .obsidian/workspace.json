@@ -62,9 +62,18 @@
               "icon": "lucide-file",
               "title": "SQL -> Indices"
             }
+          },
+          {
+            "id": "b70d0b32f68878a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,10 +281,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "030425302da642ca",
+  "active": "557b551b5412e912",
   "lastOpenFiles": [
-    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Optimizacion de Consultas.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Indices.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Optimizacion de Consultas.md",
     "01_Proyectos/Universidad/Programacion-II/Pasted image 20260220161212.png",
     "01_Proyectos/Universidad/Base-De-Datos-II/comandos-basicos.md",
     "01_Proyectos/Universidad/Estructuras-De-Datos/Programacion Java.md",

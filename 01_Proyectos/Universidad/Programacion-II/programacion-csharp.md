@@ -231,6 +231,80 @@ public class HeapSortAlgorithm
 
 ---
 
+## Shell Sort 
+
+>[!summary] Como Funciona?
+
+> El **Shell Sort** es una mejora directa del algoritmo de inserción simple (_Insertion Sort_). Fue diseñado por Donald Shell en 1959 para romper uno de los mayores problemas de la inserción: que un elemento muy pequeño al final de la lista tenga que moverse una posición a la vez a través de todo el arreglo.
+
+-> `Como funciona el Algoritmo?
+
+> La idea central es la 'Ganancia de Distancia'. En lugar de comparar elementos adyacentes, el Shell Sort compara que estan a una distancia determinada (llamada brecha o gap).
+
+1. **Divide y venceras (Parcialmente):** Se elige una brecha inicial (usualmente n/2)
+2. **Ordena subgrupos:** Se ordenan los elementos que están separados por esa brecha.
+3. **Reduce la brecha:** La brecha se reduce (normalmente a la mitad) y se repite el proceso.
+4. **Fase final:** Cuando la brecha llega a **1**, el algoritmo se comporta como un _Insertion Sort_ normal, pero con la ventaja de que la lista ya está "casi ordenada", por lo que termina rapidísimo.
+
+### Complejidad
+
+- `Peor caso:` Con la secuencia original (n/2k), su complejidad es de O(n2).
+- `Caso promedio:` Con secuencias más optimizadas (como la de Knuth), puede llegar a ser O(n3/2) o incluso O(nlog2n).
+- `Espacio:` Es un algoritmo **in-place** (O(1)), lo que significa que no requiere memoria extra significativa.
+
+### Aplicaciones en Software
+
+- `Sistemas Embebidos y Microcontroladores:` Debido a que el código es extremadamente corto y no utiliza recursividad (evitando el riesgo de _Stack Overflow_), es ideal para hardware con memoria muy limitada.
+- `Bibliotecas de C (uclibc):` Algunas implementaciones de la biblioteca estándar de C lo prefieren sobre otros algoritmos más complejos por su simplicidad.
+- `Compresion de Datos:` Se utiliza en ciertos pasos de algoritmos de compresión donde los conjuntos de datos son pequeños o están parcialmente ordenados.
+- `Casi-Ordenado:` Si sabes que tus datos ya están mayormente en orden y solo necesitas un "ajuste" final rápido sin la sobrecarga de un algoritmo recursivo pesado.
+
+
+## `Codigo`
+
+```C#
+using System;
+
+public class ShellSort
+{
+    public static void Ordenar(int[] arreglo)
+    {
+        int n = arreglo.Length;
+
+        // Comenzamos con una brecha grande y la reducimos a la mitad en cada paso
+        for (int brecha = n / 2; brecha > 0; brecha /= 2)
+        {
+            // Realizamos una ordenación por inserción para esta brecha
+            for (int i = brecha; i < n; i++)
+            {
+                int temp = arreglo[i];
+                int j;
+
+                // Desplazamos los elementos anteriores que son mayores que temp
+                for (j = i; j >= brecha && arreglo[j - brecha] > temp; j -= brecha)
+                {
+                    arreglo[j] = arreglo[j - brecha];
+                }
+
+                // Colocamos temp en su posición correcta
+                arreglo[j] = temp;
+            }
+        }
+    }
+
+    public static void Main()
+    {
+        int[] datos = { 64, 34, 25, 12, 22, 11, 90 };
+        Console.WriteLine("Original: " + string.Join(", ", datos));
+
+        Ordenar(datos);
+
+        Console.WriteLine("Ordenado: " + string.Join(", ", datos));
+    }
+}
+```
+
+---
 ## Binary Search (Busqueda Binaria)
 
 > [!summary] Como funciona?
