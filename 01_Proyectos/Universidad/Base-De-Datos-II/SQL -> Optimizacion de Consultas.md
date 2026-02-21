@@ -69,6 +69,7 @@ WHERE p.ProductSubcateogryID = sc.ProductSubcategoryID
 
 -> Utilizar Indices en las columnas involucradas en los JOINs para mejorar el rendimiento
 
+---
 ## `Subconsultas Correlacionadas vs Subconsultas Independiente`
 
 > Las subconsultas independientes tienden a ser mas eficientes que las subconsultas correlacionadas
@@ -95,3 +96,35 @@ where CustomerID in (
     WHERE h.CustomerID = C.CustomerID
     AND TotalDue <= 1000)
 ```
+
+### Uso de Clausulas de  Reescritura de Consultas
+
+`Uso de Clausulas WHERE Y HAVING de manera eficiente:`
+
+- Las clausulas de WHERE y HAVING son esenciales para filtrar los resultados de una consulta.
+- Mover las condicionales de filtrado mas restrictivas hacia arriba en la clausula WHERE.
+- Utilizar clausulas EXISTS en lugar de IN o JOINs cuando sea posible
+
+```SQL
+SELECT ProductID, name, ListPrice
+FROM Production.product p
+WHERE exists(
+	SELECT 1
+	FROM Sales.SalesOrderDetail sod
+	WHERE sod.ProductID = p.ProductID
+);
+```
+
+---
+
+## Evitar Operaciones Costosas
+
+> Algunas operaciones, como las funciones de agregacion y las operaciones de ordenamiento, pueden ser costosas en terminos de rendimiento
+
+```SQL
+SELECT SalesOrderID, custormerID, sum(TotalDUe)
+```
+
+### Uso de Indices y Estadisticas
+
+> 
