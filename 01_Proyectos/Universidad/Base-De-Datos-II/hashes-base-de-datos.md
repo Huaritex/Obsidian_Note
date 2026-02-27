@@ -9,6 +9,7 @@ relaciones: []
 > [!info] Un hash es una función matemática que convierte una entrada de longitud variable en una salida de longitud fija (digest). Es irreversible (one-way).
 
 ## Uso Principal: Contraseñas
+
 > [!danger] **NUNCA** almacenar contraseñas en texto plano.
 
 ### Algoritmos Comunes

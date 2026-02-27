@@ -19,7 +19,7 @@ relaciones: []
 - [[scrum-kanban]]
 - [[manifiesto-agil]]
 - [[modelo-osi]]
-- [[cristologia-theme]]
+- [[Cuestionario de AutoEvaluacion]]
 
 ## Areas
 - [[contexto-y-motivacion]]

@@ -43,3 +43,12 @@ relaciones: []
 -   No tiene roles prescritos obligatorios.
 -   Flujo continuo vs Sprints (cajas de tiempo).
 -   Se permiten cambios en cualquier momento (si hay capacidad) vs Sprint cerrado.
+
+---
+
+Guerkins
+
+Como
+Quiero
+Para
+s

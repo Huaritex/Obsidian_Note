@@ -27,15 +27,25 @@ LIMIT --TOP
 
 ## Operadores Logicos
 
-
+![[Pasted image 20260221203409.png]]
 
 
 ---
 
 ## Prioridad por Operador
 
-> La prioridad de operador 
+> La prioridad de operador determina la secuencia en que se realizara las operaciones
 
+
+| **Nivel** | **Operadores**                                                                                                                |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **1**     | ~ (operador bit a bit NOT)                                                                                                    |
+| **2**     | *(multiplicacion), /(division), %(modulo)                                                                                     |
+| **3**     | +(Positivo), -(Negativo), +(suma), +(concatenacion), -(Resta), &(AND bit a bit), ^(OR exclusivo bit a bit), \| (OR bit a bit) |
+| **4**     | =,>,<,>=,<=,<>,!=,!>,!< (Operadores de comparacion)                                                                           |
+| **5**     | NOT                                                                                                                           |
+| **6**     | Y                                                                                                                             |
+| **7**     | ALL ,ANY ,BETWEEN ,IN ,LIKE ,OR ,SOME                                                                                         |
 
 ---
 
@@ -123,8 +133,26 @@ WHERE exists(
 
 ```SQL
 SELECT SalesOrderID, custormerID, sum(TotalDUe)
+FROM Sales.SalesOrderHeader
+GROUP BY SalesOrderID, CustomerID;
 ```
+
+```SQL
+SELECT CustomerID, SUM(TotalDue), AS TotalSprent
+FROM Sales.SalesOrderHeader
+GROUP BY CustomerID;
+```
+
 
 ### Uso de Indices y Estadisticas
 
-> 
+> Los Indices y las estadisticas juegan un papel crucial en la optimizacion de consultas.
+
+```SQL
+SELECT SalesOrderID, TotalDue
+FROM Sales.SalesOrderHeader
+WHERE CustomerID = 11000 AND OrderDate >= '2013-01-01';
+
+CREATE INDEX idx_Customer_OrderDate ON Sales.SalesOrderHeader (CustomerID, OrderDate);
+```
+
