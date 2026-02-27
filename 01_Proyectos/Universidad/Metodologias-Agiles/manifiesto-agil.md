@@ -9,6 +9,7 @@ relaciones: []
 > [!quote] "Estamos descubriendo formas mejores de desarrollar software tanto por nuestra propia experiencia como ayudando a terceros."
 
 ## Los 4 Valores
+
 > [!important] Valoramos más los elementos de la izquierda que los de la derecha.
 
 1.  **Individuos e interacciones** sobre procesos y herramientas.

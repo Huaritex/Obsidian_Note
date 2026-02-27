@@ -142,21 +142,32 @@ Relacionado: [[programacion-csharp]]
 
 ```C++
 #include <iostream>
+
 using namespace std;
 
   
 
 int main() {
 
+  
+
 const char* numeros[4][10] = {
+
+  
 
 {"", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve"},
 
+  
+
 {"", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "setenta", "ochenta", "noventa"},
+
+  
 
 {"", "cien", "doscientos", "trescientos", "cuatrocientos", "quinientos", "seiscientos", "setecientos", "ochocientos", "novecientos"},
 
 {"mil"}
+
+  
 
 };
 
@@ -164,7 +175,11 @@ const char* numeros[4][10] = {
 
 int numero;
 
+  
+
 cout << "Ingrese un numero del 1 al 1000: ";
+
+  
 
 cin >> numero;
 
@@ -172,9 +187,15 @@ cin >> numero;
 
 if (numero < 1 || numero > 1000) {
 
+  
+
 cout << "Numero fuera de rango." << endl;
 
+  
+
 return 1;
+
+  
 
 }
 
@@ -182,12 +203,15 @@ return 1;
 
 if (numero == 1000) {
 
+  
+
 cout << numeros[3][0] << endl;
 
 return 0;
 
 }
 
+  
   
 
 int centenas = numero / 100;
@@ -204,11 +228,15 @@ cout << numeros[2][centenas] << " ";
 
 }
 
+  
+
 if (decenas > 0) {
 
 cout << numeros[1][decenas] << " ";
 
 }
+
+  
 
 if (unidades > 0) {
 

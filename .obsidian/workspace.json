@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,17 +272,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3659cd082e5d5f2c",
+  "active": "caa5df1b56b1a7b3",
   "lastOpenFiles": [
+    "01_Proyectos/Universidad/Metodologias-Agiles/manifiesto-agil.md",
+    "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
+    "01_Proyectos/Universidad/Estructuras-De-Datos/Programacion Java.md",
     "TCP.md",
     "01_Proyectos/Universidad/Programacion-II/Paradigma Programacion.md",
-    "01_Proyectos/Universidad/Estructuras-De-Datos/Programacion Java.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
     "01_Proyectos/Universidad/Cristologia/Cuestionario de AutoEvaluacion.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Optimizacion de Consultas.md",
-    "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
-    "01_Proyectos/Universidad/Metodologias-Agiles/manifiesto-agil.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Indices.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/hashes-base-de-datos.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/Pasted image 20260221203409.png",

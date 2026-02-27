@@ -45,10 +45,3 @@ relaciones: []
 -   Se permiten cambios en cualquier momento (si hay capacidad) vs Sprint cerrado.
 
 ---
-
-Guerkins
-
-Como
-Quiero
-Para
-s
