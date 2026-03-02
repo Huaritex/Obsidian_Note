@@ -3,6 +3,8 @@ tags: ['note']
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
+[[securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals]]
+
 ## Importancia de las metodologias
 
 > Las metodologias nos facilitan la realizacion de un conjunto de de actividades en un orden determinado y estableciendo una prioridad adecuada para intentar garantizar el exito y alcanzar un objetivo final.
