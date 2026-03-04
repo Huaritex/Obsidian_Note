@@ -32,7 +32,7 @@ relaciones: []
 ### 4. Capa de Transporte (Transport)
 > [!info] **Unidad de datos:** Segmentos (TCP) / Datagramas (UDP)
 > Garantiza que los mensajes se entreguen sin errores y en secuencia.
-> * **Protocolos:** [[TCP]] (Confiable, orientado a conexión) y [[UDP]] (Rápido, sin conexión).
+> * **Protocolos:** **TCP** (Confiable, orientado a conexión) y **UDP** (Rápido, sin conexión).
 > * **Cybersec Tip:** El filtrado de puertos ocurre en esta capa.
 
 ### 5. Capa de Sesión (Session)
