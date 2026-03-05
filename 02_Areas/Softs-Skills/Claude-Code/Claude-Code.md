@@ -14,4 +14,6 @@ relaciones: []
 - [[Whats a coding assistant?]]
 - [[Why Claude Code?]]
 - [[Working with Claude Code as a Partner]]
+- [[Claude Code in Action]]
+
 
