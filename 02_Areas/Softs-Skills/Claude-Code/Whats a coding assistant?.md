@@ -1,18 +1,28 @@
-
 ## Como son los asistentes de Flujo
 
-> Cuando le asignas una tarea a un asistente de programacion, como corregir un error basandome en un mensaje de fallo, este sigue el proceso similar al que seguria  un desarrollador humano para abordar el problema:
+> Cuando le asignas una tarea a un asistente de programacion, como corregir un error basandome en un mensaje de fallo, este sigue el proceso similar al que seguria un desarrollador humano para abordar el problema:
 
 ![[Pasted image 20260305114451.png]]
 
 ---
+
 ## Tool Use
 
->[!info] A los modelos se les dan instrucciones en texto plano sobre como responder de cierta manera para utilizar la `herramienta`
+> [!info] Instrucciones al Modelo
+> A los modelos se les dan instrucciones en texto plano sobre como responder de cierta manera para utilizar la **herramienta**.
 
-> Cuando el Modelo responde con una solicitud para usar la herramienta, el asistente de programacion hace lo que supone que debe hacer una herramienta (Leer archivo, escribir un archivo, realizar una solicitud, etc)
+> Cuando el Modelo responde con una solicitud para usar la herramienta, el asistente de programacion hace lo que se supone que debe hacer una herramienta (Leer archivo, escribir un archivo, realizar una solicitud, etc).
 
->[!summery] La serie de modelos Claude (Opus, Sonnet, Haiku) es particularmente solida a la hora de comprender que hacen las herramientas y utilizarlas para completar tareas
+> [!summary] Capacidad de Claude
+> La serie de modelos Claude (Opus, Sonnet, Haiku) es particularmente sólida a la hora de comprender qué hacen las herramientas y utilizarlas para completar tareas.
+
+```mermaid
+flowchart LR
+    User[Usuario] -->|Pide una tarea| Claude
+    Claude -->|Decide usar herramienta| Tool[Herramienta ej. Leer archivo]
+    Tool -->|Resultado| Claude
+    Claude -->|Respuesta Final| User
+```
 
 ![[Pasted image 20260305112648.png]]
 
@@ -20,9 +30,9 @@
 
 ## El uso de Herramientas lo es todo
 
->[!info] La fortaleza en el uso de herramientas permite obtener beneficios unicos (e inesperados)
+> [!info] La fortaleza en el uso de herramientas permite obtener beneficios unicos (e inesperados)
 
-### Claude Code puede abordar tareas mas dificiles 
+### Claude Code puede abordar tareas mas dificiles
 
 - `Claude combinara con entusiasmo` diferentes herramientas para manejar trabajos mas complejos
 - `Claude utilizara con destreza` herramientas que no haya visto antes.
@@ -40,12 +50,25 @@
 
 ---
 
-## Re-Cap
+## Re-Cap (Resumen)
 
-- Los asistentes de programacion utilizan modelos de lenguaje para completar diferentes tareas.
-- Los modelos de lenguaje necesitan utilizar herramientas para realizar la gran mayoria de las tareas.
-- No todos los modelos de lenguaje utilizan las herramientas con la misma destreza
-- El solido uso de herramientas de Claude con Claude Code permite una mejor seguridad, personalizacion y longevidad
+> [!check] Conceptos Clave
+>
+> - Los asistentes de programación utilizan modelos de lenguaje para completar diferentes tareas.
+> - Los modelos de lenguaje necesitan utilizar herramientas para realizar la gran mayoría de las tareas.
+> - No todos los modelos de lenguaje utilizan las herramientas con la misma destreza.
+> - **El sólido uso de herramientas de Claude con Claude Code permite una mejor seguridad, personalización y longevidad**.
 
-
-
+```mermaid
+mindmap
+  root((Claude Code))
+    Seguridad Mejorada
+      Navegacion Local
+      Sin Indexacion Externa
+    Capacidad Extendible
+      Nuevas Herramientas
+      Flujos Personalizados
+    Tareas Complejas
+      Combina Herramientas
+      Uso de Herramientas Nuevas
+```
