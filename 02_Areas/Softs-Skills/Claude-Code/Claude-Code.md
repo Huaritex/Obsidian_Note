@@ -3,6 +3,7 @@ tags: ["area", "claude"]
 fecha_creacion: 2026-03-03
 relaciones: []
 ---
+
 # Claude Code
 
 > [!summary] Carpeta principal de notas sobre Claude / Claude Code (asistente de código).
@@ -12,7 +13,8 @@ mindmap
   root((Claude Code))
     Conceptos Basicos
       id1("Whats a coding assistant?")
-      id2("Why Claude Code?")
+    Setup Y Configuracion
+      id2("Claude Code Setup")
     Practica y Uso
       id3("Claude Code in Action")
       id4("Getting the Most out of Claude Code")
@@ -21,8 +23,16 @@ mindmap
 
 ## Índice de Notas
 
-- [[Getting the Most out of Claude Code]]
+### Conceptos Básicos
+
 - [[Whats a coding assistant?]]
-- [[Why Claude Code?]]
-- [[Working with Claude Code as a Partner]]
+
+### Setup y Configuración
+
+- [[Claude Code Setup]]
+
+### Práctica y Uso
+
 - [[Claude Code in Action]]
+- [[Getting the Most out of Claude Code]]
+- [[Working with Claude Code as a Partner]]

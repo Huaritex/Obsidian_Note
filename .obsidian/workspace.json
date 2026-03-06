@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Code Setup"
+            }
+          },
+          {
+            "id": "0a1cd4cc602de720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +49,7 @@
               "title": "Claude-Code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:algorithms",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes de Whats a coding assistant?"
             }
           },
           {
@@ -143,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes de Whats a coding assistant?"
             }
           },
           {
@@ -176,7 +191,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -185,12 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Whats a coding assistant?"
             }
           },
           {
@@ -244,10 +260,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cc9d1059e963ecc",
+  "active": "babcdb71cd3527b0",
   "lastOpenFiles": [
+    "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
     "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
+    "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
     "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
+    "Home.md",
     "03_Recursos/Adjuntos/Pasted image 20260305134132.png",
     "03_Recursos/Adjuntos/Pasted image 20260305133646.png",
     "03_Recursos/Adjuntos/Pasted image 20260305132223.png",
@@ -258,7 +277,6 @@
     "03_Recursos/Adjuntos/Pasted image 20260305114451.png",
     "03_Recursos/Adjuntos/Pasted image 20260305112648.png",
     "03_Recursos/Adjuntos/Pasted image 20260228091214.png",
-    "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
     "02_Areas/Softs-Skills/Claude-Code/Getting the Most out of Claude Code.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
@@ -274,7 +292,6 @@
     "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
     "01_Proyectos/Universidad/Metodologias-Agiles/manifiesto-agil.md",
     "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
-    "02_Areas/Softs-Skills/Claude-Code/Why Claude Code?.md",
     "02_Areas/Softs-Skills/Claude-Code/Working with Claude Code as a Partner.md",
     "02_Areas/Cybersecurity/Cybersecurity.md",
     "02_Areas/Cybersecurity/Fundamentals/UDP.md",
