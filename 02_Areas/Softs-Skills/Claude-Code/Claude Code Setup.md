@@ -33,7 +33,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
 ```
 
-> [!important] Importante: Autenticación
+> [!warning] Importante: Autenticación
 > Después de la instalación, ejecute `claude` en su terminal. La primera vez que ejecute este comando, se le solicitará que se autentique.
 
 ---
@@ -48,9 +48,9 @@ curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del in
 
 ---
 
-# 💻 Proyect Setup
+## 💻 Proyect Setup
 
-> [!info] Requisitos Previos
+> [!abstract] Requisitos Previos
 > Este proyecto requiere una pequeña cantidad de configuración inicial antes de probar la aplicación localmente.
 
 1. **Instalar Node JS:** Asegúrate de tener Node JS instalado localmente. [Enlace a las instrucciones de instalación](https://nodejs.org).

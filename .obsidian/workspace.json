@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
+                "file": "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude-Code"
+              "title": "Claude Code in Action"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
+                "file": "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whats a coding assistant?"
+              "title": "Recopilacion Pasiva de Informacion"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,31 +275,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a1cd4cc602de720",
+  "active": "6cc9d1059e963ecc",
   "lastOpenFiles": [
-    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Indices.md",
+    "02_Areas/Softs-Skills/Claude-Code/Hook and the SDK.md",
+    "Pasted image 20260313143249.png",
+    "Pasted image 20260313143018.png",
+    "Pasted image 20260313142741.png",
+    "Pasted image 20260313142712.png",
+    "Pasted image 20260313142356.png",
+    "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
+    "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
+    "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
+    "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
+    "Pasted image 20260313141654.png",
+    "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
+    "Pasted image 20260313131944.png",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Vistas.md",
+    "Pasted image 20260313125802.png",
+    "Pasted image 20260313124134.png",
+    "Pasted image 20260313123201.png",
+    "02_Areas/Softs-Skills/Claude-Code/Making Changes in Claude Code.md",
+    "03_Recursos/MITCH TEAM.md",
+    "02_Areas/Cybersecurity/Cybersecurity.md",
+    "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info",
+    "02_Areas/Softs-Skills/Github_Copilot_Security",
+    "02_Areas/Softs-Skills/Sin título.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Indices.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Buffer.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Optimizacion de Consultas.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
     "01_Proyectos/Universidad/Programacion-II/Paradigma Programacion.md",
-    "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
-    "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
-    "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
-    "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
     "Home.md",
-    "03_Recursos/Adjuntos/Pasted image 20260305134132.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305133646.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305132223.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305130705.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305115719.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305115611.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305115011.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305114451.png",
-    "03_Recursos/Adjuntos/Pasted image 20260305112648.png",
-    "03_Recursos/Adjuntos/Pasted image 20260228091214.png",
-    "02_Areas/Softs-Skills/Claude-Code/Getting the Most out of Claude Code.md",
     "01_Proyectos/Hyperlink/movement-osi.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "01_Proyectos/Hyperlink/feature-set.md",
@@ -307,12 +314,6 @@
     "01_Proyectos/Universidad/Estructuras-De-Datos/introduccion-estructuras.md",
     "01_Proyectos/Universidad/Estructuras-De-Datos/arboles-y-grafos.md",
     "01_Proyectos/Universidad/Estructuras-De-Datos/Programacion Java.md",
-    "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
-    "01_Proyectos/Universidad/Metodologias-Agiles/manifiesto-agil.md",
-    "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
-    "02_Areas/Softs-Skills/Claude-Code/Working with Claude Code as a Partner.md",
-    "02_Areas/Cybersecurity/Cybersecurity.md",
-    "02_Areas/Cybersecurity/Fundamentals/UDP.md",
     "02_Areas/Softs-Skills/Claude-Code",
     "02_Areas/Softs-Skills",
     "02_Areas/Cybersecurity/Penetration Testing",
@@ -320,8 +321,6 @@
     "Ing.Software 1-2026/Estructuras de Datos",
     "Ing.Software 1-2026",
     "01_Proyectos/Universidad/Metodologias-Agiles",
-    "01_Proyectos/Universidad/Estructuras-De-Datos",
-    "03_Recursos/Libros/Maestria",
-    "03_Recursos/Libros/La Guerra del Arte"
+    "01_Proyectos/Universidad/Estructuras-De-Datos"
   ]
 }

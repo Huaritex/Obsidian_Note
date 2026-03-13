@@ -4,7 +4,7 @@ fecha_creacion: 2026-03-03
 relaciones: []
 ---
 
-# Claude Code
+# 🤖 Claude Code
 
 > [!summary] Carpeta principal de notas sobre Claude / Claude Code (asistente de código).
 
@@ -21,18 +21,20 @@ mindmap
       id5("Working with Claude Code as a Partner")
 ```
 
-## Índice de Notas
+---
 
-### Conceptos Básicos
+## 📑 Índice de Notas
+
+### 🧠 Conceptos Básicos
 
 - [[Whats a coding assistant?]]
 
-### Setup y Configuración
+### 🛠️ Setup y Configuración
 
 - [[Claude Code Setup]]
 
-### Práctica y Uso
+### 🚀 Práctica y Uso
 
 - [[Claude Code in Action]]
-- [[Getting the Most out of Claude Code]]
-- [[Working with Claude Code as a Partner]]
+- [[Making Changes in Claude Code]]
+- [[Hook and the SDK]]

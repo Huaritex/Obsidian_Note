@@ -33,7 +33,7 @@ relaciones: []
 - [[securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals]]
 - [[desarrollo-personal]]
 - [[Metodologias de Hacking Etico]]
-- [[Getting the Most out of Claude Code]]
+- [[Making Changes in Claude Code]]
 - [[Whats a coding assistant?]]
 
 ## Recursos
