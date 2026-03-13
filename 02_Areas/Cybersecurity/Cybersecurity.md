@@ -13,4 +13,5 @@ relaciones: []
 - [[contexto-y-motivacion]]
 - [[Metodologias de Hacking Etico]]
 - [[securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals]]
+- [[Recopilacion Pasiva de Informacion]]
 

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
+                "file": "02_Areas/Cybersecurity/Penetration Testing/Metodologias de Hacking Etico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recopilacion Pasiva de Informacion"
+              "title": "Metodologias de Hacking Etico"
             }
           }
         ],
@@ -247,13 +247,14 @@
   },
   "active": "1f4357a87e552674",
   "lastOpenFiles": [
+    "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
+    "02_Areas/Cybersecurity/Cybersecurity.md",
     "Pasted image 20260313123201.png",
     "02_Areas/Softs-Skills/Claude-Code/Hook and the SDK.md",
     "Pasted image 20260313150321.png",
     "Pasted image 20260313150204.png",
     "Pasted image 20260313150101.png",
     "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Vistas.md",
-    "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
     "Pasted image 20260313145915.png",
     "Making Changes in Claude Code.md",
     "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
@@ -265,10 +266,8 @@
     "Pasted image 20260313142356.png",
     "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
     "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
-    "Pasted image 20260313141654.png",
     "02_Areas/Softs-Skills/Claude-Code/Making Changes in Claude Code.md",
     "03_Recursos/MITCH TEAM.md",
-    "02_Areas/Cybersecurity/Cybersecurity.md",
     "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info",
     "02_Areas/Softs-Skills/Github_Copilot_Security",
     "02_Areas/Softs-Skills/Sin título.md",
