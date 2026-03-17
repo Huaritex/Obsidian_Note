@@ -1,7 +1,7 @@
 ---
 tags: ["area", "claude"]
 fecha_creacion: 2026-03-03
-relaciones: []
+relaciones: ["[[Softs-Skills]]"]
 ---
 
 # 🤖 Claude Code
