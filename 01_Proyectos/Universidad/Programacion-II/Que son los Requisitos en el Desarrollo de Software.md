@@ -5,7 +5,7 @@ relaciones: []
 ---
 
 >[!note] Programación II
->- Carpeta/curso: [Programación II](01_Proyectos/Universidad/Programacion-II/)
+>- Carpeta/curso: [[Programacion-II|Programación II]]
 >- Objetivo: entender los requisitos **no funcionales** (NFR) y diferenciarlos de los **funcionales** (FR).
 
 >[!info] Requisitos No Funcionales (NFR)

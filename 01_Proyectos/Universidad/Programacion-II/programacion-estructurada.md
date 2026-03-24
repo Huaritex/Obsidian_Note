@@ -4,6 +4,8 @@ fecha_creacion: 2026-02-14
 relaciones: []
 ---
 
+Curso: [[Programacion-II|Programación II]]
+
 # Programación Estructurada
 
 > [!info] Paradigma de programación orientado a mejorar la claridad, calidad y tiempo de desarrollo utilizando únicamente subrutinas y tres estructuras de control.

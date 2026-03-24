@@ -3,7 +3,8 @@ tags: ['note']
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
----
+
+Curso: [[Programacion-II|Programación II]]
 
 # Modelo [[modelo-osi]]
 

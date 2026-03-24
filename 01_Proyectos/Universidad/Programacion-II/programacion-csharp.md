@@ -3,8 +3,9 @@ tags: ['note']
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
-Relacionado: [[programacion-estructurada]]
+Curso: [[Programacion-II|Programación II]]
 
+Relacionado: [[programacion-estructurada]]
 
 # Algoritmos de Ordenamiento
 
