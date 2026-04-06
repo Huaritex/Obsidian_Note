@@ -11,14 +11,12 @@
             "id": "3a9ae8fb46b5ecb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01_Proyectos/Universidad/Programacion-II/Paradigma Programacion.md",
-                "mode": "source",
-                "source": false
+                "file": "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Paradigma Programacion"
+              "icon": "lucide-file-text",
+              "title": "La-Guerra-del-Arte"
             }
           },
           {
@@ -27,15 +25,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
+                "file": "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen paper Github_security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "programacion-estructurada"
+              "title": "Resumen paper Github_security"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,12 +245,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "442da822c08c0f93",
+  "active": "3659cd082e5d5f2c",
   "lastOpenFiles": [
-    "01_Proyectos/Universidad/Programacion-II.md",
+    "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen paper Github_security.md",
+    "02_Areas/Softs-Skills/Github_Copilot_Security/Paper_Copilot_Security.pdf",
+    "02_Areas/Softs-Skills/Claude-Code/Hook and the SDK.md",
+    "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf",
+    "03_Recursos/Adjuntos/(3) Esencialismo -Greg McKeown.pdf",
+    "03_Recursos/Libros/La Guerra del Arte/analsis-la-guerra-del-arte.md",
+    "03_Recursos/Libros/El hombre en busca de sentido/el-hombre-en-busca-de-sentido.md",
+    "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
     "01_Proyectos/Universidad/Programacion-II/Paradigma Programacion.md",
-    "01_Proyectos/Universidad/Programacion-II/Que son los Requisitos en el Desarrollo de Software.md",
+    "Pasted image 20260325105936.png",
+    "Pasted image 20260325105749.png",
+    "Pasted image 20260325105615.png",
+    "Pasted image 20260325105458.png",
     "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
+    "01_Proyectos/Universidad/Programacion-II.md",
+    "01_Proyectos/Universidad/Programacion-II/Que son los Requisitos en el Desarrollo de Software.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "02_Areas/Softs-Skills/Softs-Skills.md",
     "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
@@ -261,10 +272,7 @@
     "Pasted image 20260313124134.png",
     "Pasted image 20260313123201.png",
     "Making Changes in Claude Code.md",
-    "02_Areas/Softs-Skills/Claude-Code/Hook and the SDK.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen paper Github_security.md",
     "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen English Github_security.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Paper_Copilot_Security.pdf",
     "02_Areas/Softs-Skills/Github_Copilot_Security/Github_Copilot_Security.md",
     "02_Areas/Softs-Skills/Github_Copilot_Security/paper.txt",
     "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
@@ -277,22 +285,12 @@
     "Pasted image 20260313150101.png",
     "Pasted image 20260313145915.png",
     "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
-    "Pasted image 20260313143249.png",
-    "Pasted image 20260313143018.png",
-    "Pasted image 20260313142741.png",
-    "Pasted image 20260313142712.png",
     "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
-    "02_Areas/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
-    "02_Areas/Softs-Skills/Claude-Code/Making Changes in Claude Code.md",
-    "03_Recursos/MITCH TEAM.md",
     "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info",
     "02_Areas/Softs-Skills/Github_Copilot_Security",
-    "02_Areas/Softs-Skills/Sin título.md",
     "02_Areas/Softs-Skills/Claude-Code",
     "02_Areas/Softs-Skills",
     "02_Areas/Cybersecurity/Penetration Testing",
-    "Ing.Software 1-2026/Metodologias Agiles",
-    "Ing.Software 1-2026/Estructuras de Datos",
-    "Ing.Software 1-2026"
+    "Ing.Software 1-2026/Metodologias Agiles"
   ]
 }
