@@ -3,7 +3,7 @@ tags: ['note', 'agile', 'project-management', 'scrum', 'kanban']
 fecha_creacion: 2026-02-14
 relaciones: []
 ---
-
+	
 # Scrum y Kanban
 
 > [!info] Metodologías ágiles más populares para la gestión de proyectos de software.
