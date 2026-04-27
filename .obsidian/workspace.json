@@ -4,25 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64074f4040739c3e",
+        "id": "5ac7242114dd51fa",
         "type": "tabs",
         "children": [
           {
-            "id": "46b378e529360e17",
+            "id": "6c3b02827b93a24b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Useful Hooks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Useful Hooks"
+              "title": "Nueva pestaña"
             }
           },
           {
-            "id": "ef7378e934a0571b",
+            "id": "8de9308d8b4717bd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,7 +27,8 @@
               "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,12 +239,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46b378e529360e17",
+  "active": "8de9308d8b4717bd",
   "lastOpenFiles": [
+    "00_Index.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/The Claude Code SDK.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Useful Hooks.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Another Useful Hook.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Another userful hook.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude Code in Action.md",
+    "Pasted image 20260427184909.png",
+    "Pasted image 20260427184902.png",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude Code Setup.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude-Code.md",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Quiz Claude Code.md",
@@ -260,8 +262,6 @@
     "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150321.png",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150204.png",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150101.png",
-    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313145915.png",
-    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313143249.png",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes",
     "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos",
     "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
@@ -281,13 +281,11 @@
     "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf",
     "04_Archives/Making Changes in Claude Code.md",
     "04_Archives/04_Archives_MOC.md",
-    "00_Index.md",
     "Home.md",
     "03_Recursos/Enlaces/links-github.md",
     "02_Areas/Softs-Skills/Claude-Code/Another Useful Hook.md",
     "02_Areas/Cybersecurity/Penetration Testing/Metodologias de Hacking Etico.md",
     "01_Proyectos/Universidad/Cristologia/Capitulo de la FE.md",
-    "01_Proyectos/Universidad/Cristologia/Cuestionario de AutoEvaluacion.md",
-    "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md"
+    "01_Proyectos/Universidad/Cristologia/Cuestionario de AutoEvaluacion.md"
   ]
 }

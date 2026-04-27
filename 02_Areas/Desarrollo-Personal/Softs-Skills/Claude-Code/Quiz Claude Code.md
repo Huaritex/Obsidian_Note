@@ -1,5 +1,5 @@
 ---
-tags: ["quiz", "claude"]
+tags: ["quiz", "claude", area]
 ---
 
 # 📝 Quiz: Autoevaluación de Claude Code

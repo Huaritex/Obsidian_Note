@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'programming', 'structured-programming']
+tags: ['note', 'programming', 'structured-programming', project]
 fecha_creacion: 2026-02-14
 relaciones: []
 ---

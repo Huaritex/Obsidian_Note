@@ -1,5 +1,5 @@
 ---
-tags: ["setup", "claude-code", "tutorial"]
+tags: ["setup", "claude-code", "tutorial", area]
 fecha_creacion: 2026-03-06
 relaciones: ["[[Claude-Code]]"]
 ---

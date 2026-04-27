@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'database', 'sql']
+tags: ['note', 'database', 'sql', project]
 fecha_creacion: 2026-02-14
 relaciones: []
 ---

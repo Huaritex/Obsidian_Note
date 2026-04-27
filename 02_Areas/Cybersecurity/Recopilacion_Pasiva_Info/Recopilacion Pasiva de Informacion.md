@@ -1,3 +1,7 @@
+---
+tags: [area]
+---
+
 # 🕵️‍♂️ Recopilación Pasiva de Información
 
 > [!info] **Concepto Principal**

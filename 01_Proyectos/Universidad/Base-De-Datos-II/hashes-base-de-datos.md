@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'database', 'security', 'hashing']
+tags: ['note', 'database', 'security', 'hashing', project]
 fecha_creacion: 2026-02-14
 relaciones: []
 ---

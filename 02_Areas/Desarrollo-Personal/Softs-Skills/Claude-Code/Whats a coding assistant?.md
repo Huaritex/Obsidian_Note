@@ -1,3 +1,7 @@
+---
+tags: [area]
+---
+
 # 🤖 ¿Qué es un Asistente de Programación?
 
 > [!quote] Un asistente de programación como Claude Code no es solo un chat; es un agente que imita el proceso de razonamiento y ejecución de un desarrollador humano.

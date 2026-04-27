@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'agile', 'project-management', 'scrum', 'kanban']
+tags: ['note', 'agile', 'project-management', 'scrum', 'kanban', project]
 fecha_creacion: 2026-02-14
 relaciones: []
 ---

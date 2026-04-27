@@ -1,3 +1,7 @@
+---
+tags: [area]
+---
+
 2# 🛠️ Herramientas en Claude Code
 
 ![[Pasted image 20260305115011.png]]

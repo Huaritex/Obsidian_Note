@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'computer-science', 'algorithms', 'data-structures']
+tags: ['note', 'computer-science', 'algorithms', 'data-structures', project]
 fecha_creacion: 2026-02-14
 relaciones: []
 ---

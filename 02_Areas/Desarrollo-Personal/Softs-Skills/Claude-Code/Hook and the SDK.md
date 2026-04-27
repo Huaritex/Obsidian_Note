@@ -1,3 +1,7 @@
+---
+tags: [area]
+---
+
 # 🪝 Hooks y el SDK de Claude Code
 
 > [!abstract] Los **Hooks** y el **SDK** son las herramientas de personalización más potentes de Claude Code. Permiten integrar lógica externa en el ciclo de vida de la IA o ejecutar la IA dentro de tus propios scripts.

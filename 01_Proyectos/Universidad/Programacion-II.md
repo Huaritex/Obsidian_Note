@@ -1,5 +1,5 @@
 ---
-tags: ['note', 'university', 'programming']
+tags: ['note', 'university', 'programming', project]
 ---
 
 # Programación II
