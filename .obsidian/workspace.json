@@ -8,33 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a9ae8fb46b5ecb1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "La-Guerra-del-Arte"
-            }
-          },
-          {
-            "id": "f6f7d9362039804f",
+            "id": "46b378e529360e17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md",
+                "file": "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Useful Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scrum-kanban"
+              "title": "Useful Hooks"
+            }
+          },
+          {
+            "id": "ef7378e934a0571b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,52 +242,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6f7d9362039804f",
+  "active": "46b378e529360e17",
   "lastOpenFiles": [
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen paper Github_security.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Paper_Copilot_Security.pdf",
-    "02_Areas/Softs-Skills/Claude-Code/Hook and the SDK.md",
-    "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf",
-    "03_Recursos/Adjuntos/(3) Esencialismo -Greg McKeown.pdf",
-    "03_Recursos/Libros/La Guerra del Arte/analsis-la-guerra-del-arte.md",
-    "03_Recursos/Libros/El hombre en busca de sentido/el-hombre-en-busca-de-sentido.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/The Claude Code SDK.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Whats a coding assistant?.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Useful Hooks.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude Code in Action.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude Code Setup.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Claude-Code.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Quiz Claude Code.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Claude-Code/Hook and the SDK.md",
+    "03_Recursos/Adjuntos/Pasted image 20260228091214.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260325105936.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260325105749.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260325105615.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260325105458.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150321.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150204.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313150101.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313145915.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes/Pasted image 20260313143249.png",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos/Imagenes",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Recursos",
     "02_Areas/Desarrollo-Personal/desarrollo-personal.md",
-    "01_Proyectos/Universidad/Programacion-II/Paradigma Programacion.md",
-    "Pasted image 20260325105936.png",
-    "Pasted image 20260325105749.png",
-    "Pasted image 20260325105615.png",
-    "Pasted image 20260325105458.png",
-    "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
-    "01_Proyectos/Universidad/Programacion-II.md",
-    "01_Proyectos/Universidad/Programacion-II/Que son los Requisitos en el Desarrollo de Software.md",
-    "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
-    "02_Areas/Softs-Skills/Softs-Skills.md",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Softs-Skills.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Buffer Practice.md",
+    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Buffer.md",
     "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info/Recopilacion Pasiva de Informacion.md",
-    "02_Areas/Cybersecurity/Cybersecurity.md",
-    "02_Areas/Cybersecurity/Penetration Testing/Metodologias de Hacking Etico.md",
-    "apuntes.md",
-    "Pasted image 20260313124134.png",
-    "Pasted image 20260313123201.png",
+    "02_Areas/Cybersecurity/Encryption/securing-your-it-infrastructure-against-today-s-and-tomorrow-s-computers-and-criminals.md",
+    "03_Recursos/Adjuntos/maestrc3ada-robert-greene-poderoso-conocimiento.pdf",
+    "03_Recursos/Adjuntos/images/cybersecurity",
+    "03_Recursos/Adjuntos/images/concepts",
+    "03_Recursos/Adjuntos/images/university",
+    "03_Recursos/Adjuntos/images/soft-skills",
+    "03_Recursos/Adjuntos/images",
+    "02_Areas/Desarrollo-Personal/Softs-Skills/Github_Copilot_Security/Paper_Copilot_Security.pdf",
     "Making Changes in Claude Code.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Resumen English Github_security.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/Github_Copilot_Security.md",
-    "02_Areas/Softs-Skills/Github_Copilot_Security/paper.txt",
-    "01_Proyectos/Universidad/Programacion-II/programacion-csharp.md",
-    "02_Areas/Softs-Skills/Claude-Code/Claude Code in Action.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Vistas.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Optimizacion de Consultas.md",
-    "01_Proyectos/Universidad/Base-De-Datos-II/SQL -> Indices.md",
-    "Pasted image 20260313150321.png",
-    "Pasted image 20260313150204.png",
-    "Pasted image 20260313150101.png",
-    "Pasted image 20260313145915.png",
-    "02_Areas/Softs-Skills/Claude-Code/Claude-Code.md",
-    "02_Areas/Softs-Skills/Claude-Code/Claude Code Setup.md",
-    "02_Areas/Cybersecurity/Recopilacion_Pasiva_Info",
-    "02_Areas/Softs-Skills/Github_Copilot_Security",
-    "02_Areas/Softs-Skills/Claude-Code",
-    "02_Areas/Softs-Skills",
-    "02_Areas/Cybersecurity/Penetration Testing",
-    "Ing.Software 1-2026/Metodologias Agiles"
+    "03_Recursos/Adjuntos/La-Guerra-del-Arte.pdf",
+    "04_Archives/Making Changes in Claude Code.md",
+    "04_Archives/04_Archives_MOC.md",
+    "00_Index.md",
+    "Home.md",
+    "03_Recursos/Enlaces/links-github.md",
+    "02_Areas/Softs-Skills/Claude-Code/Another Useful Hook.md",
+    "02_Areas/Cybersecurity/Penetration Testing/Metodologias de Hacking Etico.md",
+    "01_Proyectos/Universidad/Cristologia/Capitulo de la FE.md",
+    "01_Proyectos/Universidad/Cristologia/Cuestionario de AutoEvaluacion.md",
+    "01_Proyectos/Universidad/Metodologias-Agiles/scrum-kanban.md"
   ]
 }
