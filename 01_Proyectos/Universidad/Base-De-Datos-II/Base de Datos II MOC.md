@@ -24,5 +24,8 @@ Este es el nodo central de la materia de Base de Datos II de la universidad. Aqu
 - [[Backups y Recuperación]]
 - [[Triggers]]
 
+## 📂 NoSQL y Formatos de Datos
+- [[Formatos de Datos - XML JSON BSON]]
+
 ---
 ⬅️ Regresar a: [[01_Projects_MOC]]

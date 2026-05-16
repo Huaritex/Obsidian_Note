@@ -11,6 +11,9 @@ Recursos y apuntes relacionados al desarrollo de software, paradigmas y buenas p
 - [[Que son los Requisitos en el Desarrollo de Software]]
 - [[modelo-osi]]
 
+## 🌐 Backend y Redes
+- [[API REST y Protocolo HTTP]]
+
 ## 💻 Lenguajes
 - [[programacion-csharp]]
 
