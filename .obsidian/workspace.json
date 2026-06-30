@@ -39,14 +39,18 @@
             "id": "bcd53dd1d81103fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "01_Proyectos/Universidad/Programacion-II/API REST y Protocolo HTTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API REST y Protocolo HTTP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Proyectos/Universidad/Programacion-II/programacion-estructurada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de programacion-estructurada"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -258,10 +261,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15c53958ba7d6fc4",
+  "active": "bcd53dd1d81103fe",
   "lastOpenFiles": [
-    "01_Proyectos/Universidad/Programacion-II/API REST y Protocolo HTTP.md",
     "01_Proyectos/Universidad/Base-De-Datos-II/Formatos de Datos - XML JSON BSON.md",
+    "01_Proyectos/Universidad/Programacion-II/API REST y Protocolo HTTP.md",
     "01_Proyectos/Universidad/Programacion-II/modelo-osi.md",
     "01_Proyectos/Universidad/Programacion-II.md",
     "03_Resources_MOC.md",
